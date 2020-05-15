@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f540d4d-b96d-4a53-8406-bae02d868f4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bxQoDP5uUNgz0L1AdMZubwL9bt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Kotlin.MaskDocKt">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Doc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solver.Doc" />
+      <module name="ApplyMaskRegex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaskDocKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ApplyMaskRegex" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="solver.MaskDocKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MaskDocKt" />
+        <item itemvalue="Application.Doc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f540d4d-b96d-4a53-8406-bae02d868f4b" name="Default Changelist" comment="" />
+      <created>1589571437670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589571437670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1290" height="182" key="GridCell.Tab.0.bottom" timestamp="1589572526534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589572526534" />
+    <state width="1290" height="182" key="GridCell.Tab.0.center" timestamp="1589572526534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589572526534" />
+    <state width="1290" height="182" key="GridCell.Tab.0.left" timestamp="1589572526533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589572526533" />
+    <state width="1290" height="182" key="GridCell.Tab.0.right" timestamp="1589572526534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589572526534" />
+    <state width="1290" height="182" key="GridCell.Tab.1.bottom" timestamp="1589572526536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589572526536" />
+    <state width="1290" height="182" key="GridCell.Tab.1.center" timestamp="1589572526535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589572526535" />
+    <state width="1290" height="182" key="GridCell.Tab.1.left" timestamp="1589572526535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589572526535" />
+    <state width="1290" height="182" key="GridCell.Tab.1.right" timestamp="1589572526535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1290" height="182" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589572526535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solver/Doc.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
